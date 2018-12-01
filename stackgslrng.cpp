@@ -2,7 +2,7 @@
 #include <gsl/gsl_rng.h>
 #include <stack>
 #include <time.h>
-
+// compilation g++ stackgslrng.cpp -o st1 -lgsl -lgslcblas -lm
 int
 main (void)
 {
